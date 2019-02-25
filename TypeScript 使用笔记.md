@@ -14,9 +14,9 @@ object.p
 
 
 
-## JavaScript条件判断式之等于=
+## JavaScript 条件判断式之等于=
 
-**不是false, 0, undefined, NaN, "" or null，js都认为是true;**
+**不是 `false`, `0`, `undefined`, `NaN`, `""` or `null`，js都认为是true;**
 
 #### 1、当等于号两边的类型不同时
 
@@ -26,7 +26,7 @@ eg:
 
 ```javascript
  var a = 0;//a为零
- var b="";//b为空值
+ var b = "";//b为空值
  var c = " ";//c为空格
  if( a == b){
      //此时，a和b 的类型不一致，a为0，则为false,b为空值，在为false,false==false,条件满足，进入
@@ -43,14 +43,15 @@ eg:
 var a = 1;
 var b = 2;
 if(a == b){
-//因为a和b的类型都是数值型，类型相同，直接比较，1 ！= 2
+    //因为a和b的类型都是数值型，类型相同，直接比较，1 ！= 2
+}
 ```
 
-   }
+ 
 
 #### 3、js还自带一种判断   ===
 
-判断不相同类型的两个值可以用===，三等符可以判断类型
+判断不相同类型的两个值可以用 ===，三等符可以判断类型
 
 eg:
 

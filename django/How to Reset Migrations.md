@@ -1,6 +1,6 @@
 # How to Reset Migrations
 
-![](/Users/g/Desktop/2018-12-26-085544.png)
+![](http://img-note.wuqianlin.cn/img-md/2019-01-28-featured-post-image.jpg)
 
 (Picture: <https://www.pexels.com/photo/sky-flying-animals-birds-1209/>)
 
