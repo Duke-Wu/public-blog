@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "解决 django 中 mysql gone away 的问题"
-date:   2019-03-18 13:35:57 +0800
+title: "解决 django 中 mysql gone away 的问题"
+date: 2019-03-18 13:35:57 +0800
 categories: jekyll update
 ---
 
