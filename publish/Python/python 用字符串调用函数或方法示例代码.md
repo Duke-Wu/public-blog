@@ -1,3 +1,13 @@
+---
+title: python 用字符串调用函数或方法示例代码
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
 
 ## python 用字符串调用函数或方法示例代码
 

@@ -1,3 +1,16 @@
+---
+title: bytes与字符串的相互转化
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
+## bytes与字符串的相互转化
+
 ```python
 # bytes转字符串方式一
 b=b'\xe9\x80\x86\xe7\x81\xab'

@@ -1,3 +1,14 @@
+---
+title: linux 查看端口和文件常用命名
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- linux
+categories:
+- tool kits
+---
+
 # linux 查看端口和文件常用命名
 
 ## 1、lsof
@@ -41,6 +52,3 @@ tcp        0     96 172.27.0.4:22           110.184.64.129:17796    ESTABLISHED 
 -l 仅列出在Listen(监听)的服务状态
 -p 显示建立相关链接的程序名
 ```
-
-
-

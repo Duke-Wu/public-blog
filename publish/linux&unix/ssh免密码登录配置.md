@@ -1,8 +1,18 @@
+---
+title: ssh免密码登录配置
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- linux
+categories:
+- tool kits
+---
+
+
 ## ssh免密码登录配置
 
-
-
-#### 1. 创建sshkey
+## 1. 创建sshkey
 
 ```bash
 ssh-keygen -t rsa
@@ -14,7 +24,7 @@ ssh-keygen -t rsa
 
 
 
-#### 2. 使用ssh-copy-id 命令把自己的公钥发送给需要免密登录的主机
+## 2. 使用ssh-copy-id 命令把自己的公钥发送给需要免密登录的主机
 
 命令如下：
 
@@ -30,7 +40,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub hadoop@192.168.8.94
 
 
 
-#### 3. 直接免密登录到对方主机
+## 3. 直接免密登录到对方主机
 
 ```bash
 ssh hadoop@192.168.8.94

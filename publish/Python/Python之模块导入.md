@@ -1,3 +1,14 @@
+---
+title: Python标准库系列之模块介绍
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
 ## Python标准库系列之模块介绍
 
 > Python的模块其实就是封装了一个或者多个功能的代码集合，以便于重用，模块可以是一个`文件`也可以是一个`目录`，目录的形式称作`包`。

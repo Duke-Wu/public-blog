@@ -1,4 +1,15 @@
-## Typescript 遍历Array的方法：for, forEach, every等
+---
+title: Typescript 遍历Array的方法：for, forEach, every等
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- Typescript
+categories:
+- tool kits
+---
+
+# Typescript 遍历Array的方法：for, forEach, every等
 
 Typescript的官方文档 Iterators and Geneators (https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html）
 

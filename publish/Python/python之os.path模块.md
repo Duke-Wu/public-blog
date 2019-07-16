@@ -1,3 +1,14 @@
+---
+title: python之os.path模块
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
 ## python之os.path模块
 
 > os.path 模块用于以一种可移植的方式操作路径名称。

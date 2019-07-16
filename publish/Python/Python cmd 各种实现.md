@@ -1,3 +1,16 @@
+---
+title: Python cmd 各种实现
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
+## Python cmd 各种实现
+
 ### 1. 使用 os.system("cmd")
 
 ```python
@@ -23,10 +36,3 @@ subprocess.Popen(args, bufsize=0, executable=None, stdin=None, stdout=None, stde
 ```python
 status, output = commands.getstatusoutput("ls")
 ```
-
-
-
-作者：menglei8625 
-来源：CSDN 
-原文：https://blog.csdn.net/menglei8625/article/details/7494094 
-版权声明：本文为博主原创文章，转载请附上博文链接！

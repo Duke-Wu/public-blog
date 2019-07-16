@@ -1,3 +1,15 @@
+---
+title: css 学习笔记
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 13:51:00
+comments: true
+tags:
+- css
+categories:
+- css
+---
+
+# css 学习笔记
 
 ##### display：block（块级元素 ） 
 会独占一行，多个block元素会各自新起一行。默认情况下，block元素宽度自动填满其父级宽度

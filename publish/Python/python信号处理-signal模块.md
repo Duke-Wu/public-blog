@@ -1,4 +1,15 @@
-## python信号处理-signal模块
+---
+title: Python 信号处理-signal模
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
+## Python 信号处理-signal模
 
 Python中对信号处理的模块主要是使用signal模块，但signal主要是针对Unix系统，所以在Windows平台上Python不能很好的发挥信号处理的功能。
 

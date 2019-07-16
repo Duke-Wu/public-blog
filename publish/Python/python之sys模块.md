@@ -1,4 +1,15 @@
-# python之sys模块详解
+---
+title: Python之sys模块详解
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
+# Python之sys模块详解
 
 > sys 模块包含了与解释器及其操作环境有关的变量和函数。
 

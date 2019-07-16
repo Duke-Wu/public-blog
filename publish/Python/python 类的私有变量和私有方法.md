@@ -1,3 +1,14 @@
+---
+title: Python 类的私有变量和私有方法
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
 # 类的私有变量和私有方法
 
 在Python中可以通过在属性变量名前加上双下划线定义属性为私有属性

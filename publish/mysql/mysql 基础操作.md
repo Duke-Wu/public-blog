@@ -1,3 +1,16 @@
+---
+title: MySQL基础操作
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- database
+- mysql
+categories:
+- tool kits
+---
+
+
 ## MySQL基础操作
 
 #### mysql 客户端和服务器端实用工具：

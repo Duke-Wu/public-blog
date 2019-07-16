@@ -1,3 +1,15 @@
+---
+title: Django custom exception handlers are easy!
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
+---
+
 ## Django custom exception handlers are easy!
 
 Today I'll tell you how to create custom exception handlers in Django. They are useful, if you want to do custom action when Exception is raised from view. For example, you can create consistent way of handling your own generic exception type. It's very easy, but can be super useful!

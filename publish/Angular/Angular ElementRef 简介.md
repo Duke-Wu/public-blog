@@ -1,3 +1,15 @@
+---
+title: Angular ElementRef 的使用
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 13:46:00
+comments: true
+tags:
+- angular
+categories:
+- tool kits
+---
+
+
 Angular 的口号是 - “一套框架，多种平台。同时适用手机与桌面 (One framework.Mobile & desktop.)”，即 Angular 是支持开发跨平台的应用，比如：Web 应用、移动 Web 应用、原生移动应用和原生桌面应用等。
 
 为了能够支持跨平台，Angular 通过抽象层封装了不同平台的差异，统一了 API 接口。如定义了抽象类 Renderer 、抽象类 RootRenderer 等。此外还定义了以下引用类型：ElementRef、TemplateRef、ViewRef 、ComponentRef 和 ViewContainerRef 等。
@@ -16,7 +28,6 @@ class ElementRef<T> {
   nativeElement: T
 }
 ```
-
 
 
 **ElementRef 的应用**

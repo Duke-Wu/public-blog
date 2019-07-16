@@ -1,3 +1,16 @@
+---
+title: Django url 参数传递
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
+## Django url 参数传递
+
 url传递参数有两种，一个是通过普通分组方式，一个是通过带命名分组方式
 
 #### 1. 普通分组方式，传递参数顺序是严格的。如下例子

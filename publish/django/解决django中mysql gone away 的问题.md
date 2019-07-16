@@ -1,8 +1,13 @@
 ---
-layout: post
-title: "解决 django 中 mysql gone away 的问题"
-date: 2019-03-18 13:35:57 +0800
-categories: jekyll update
+title: 解决 django 中 mysql gone away 的问题
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
 ---
 
 

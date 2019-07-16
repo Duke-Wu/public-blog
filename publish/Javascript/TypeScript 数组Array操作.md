@@ -1,3 +1,14 @@
+---
+title: TypeScript 数组Array操作
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- Typescript
+categories:
+- tool kits
+---
+
 ## TypeScript 数组Array操作
 
 #### 一、数组的声明

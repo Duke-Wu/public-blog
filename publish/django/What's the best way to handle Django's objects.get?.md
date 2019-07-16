@@ -1,7 +1,15 @@
 ---
-title: Hello World
-date: 2013/7/13 20:46:25
+title: What's the best way to handle Django's objects.get?
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
 ---
+
 
 # What's the best way to handle Django's objects.get?
 

@@ -1,3 +1,14 @@
+---
+title: Python：访问私有成员变量
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
+
 # Python：访问私有成员变量
 
 Python 中将成员和方法私有化的方式是在成员名或者方法名前面加两个下划线，如下：
@@ -18,7 +29,7 @@ if __name__ == "__main__":
 AttributeError: 'PrivateTest' object has no attribute '__name'
 ```
 
-**Python 中访问私有成员变量的正确方式为：实例类._*类名__*变量名**
+**Python 中访问私有成员变量的正确方式为：实例类._类名__变量名**
 
 ```python
 class PrivateTest:

@@ -1,4 +1,15 @@
-# [javascript\] JS获取当前时间戳的方法
+---
+title: javascript 获取当前时间戳的方法
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- javascript
+categories:
+- tool kits
+---
+
+# javascript 获取当前时间戳的方法
 
 ## JavaScript 获取当前时间戳：
 ### 第一种方法：(这种方法只精确到秒)

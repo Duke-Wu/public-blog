@@ -1,4 +1,16 @@
-# 、Bootstrap 中的 aria-label 和 aria-labelledby 使用方法
+---
+title: Bootstrap 中的 aria-label 和 aria-labelledby 使用方法
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 13:50:00
+comments: true
+tags:
+- css
+categories:
+- css
+- bootstrap
+---
+
+# Bootstrap 中的 aria-label 和 aria-labelledby 使用方法
 
 ## 1. aira-label
 

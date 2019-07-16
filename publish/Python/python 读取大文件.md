@@ -1,9 +1,15 @@
 ---
-title: Python 读取文本大文件最后 X 个字节
-date: 2019/3/24 23:36:25
+title: Python 读取文本大文件
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
 ---
 
-# Python 读取文本大文件最后 X 个字节
+# Python 读取文本大文件
 
 ## Python File seek() 方法
 

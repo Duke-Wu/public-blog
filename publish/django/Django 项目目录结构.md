@@ -1,3 +1,15 @@
+---
+title: django 工程目录结构
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
+---
+
 ## django 工程目录结构
 
 **转载自：http://www.loonapp.com/blog/11/**
@@ -6,7 +18,7 @@
 
 你已经配置好你的Heroku账户（译者注：Heroku是一个老牌的免费云空间），并且创建了第一个Heroku应用，让我们来讨论一个非常重要的话题（虽然经常被忽略）：Django工程结构管理。
 
-
+<!--more-->
 
 > 概述
 

@@ -1,3 +1,14 @@
+---
+title: Javascript删除数组里的某个元素
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- javascript
+categories:
+- tool kits
+---
+
 ## Javascript删除数组里的某个元素
 
 #### 删除数组指定的某个元素

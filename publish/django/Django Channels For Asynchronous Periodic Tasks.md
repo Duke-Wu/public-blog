@@ -1,3 +1,13 @@
+---
+title: Django Channels For Asynchronous Periodic Tasks
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+categories:
+- tool kits
+---
 
 
 ## Django Channels For Asynchronous Periodic Tasks

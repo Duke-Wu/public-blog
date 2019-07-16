@@ -1,6 +1,17 @@
+---
+title: 每天一个Linux命令-curl
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- linux
+categories:
+- tool kits
+---
+
 > curl命令是一个利用URL规则在命令行下工作的文件传输工具。它支持文件的上传和下载。curl支持包括HTTP、HTTPS、ftp等众多协议，还支持POST、cookies、认证、从指定偏移处下载部分文件、用户代理字符串、限速、文件大小、进度条等特征。
 
-
+# 每天一个Linux命令-curl
 
 #### 1. get请求
 

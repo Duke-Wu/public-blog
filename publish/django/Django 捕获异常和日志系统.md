@@ -1,3 +1,15 @@
+---
+title: 使用装饰器捕获方法内的所有异常
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
+---
+
 ## 使用装饰器捕获方法内的所有异常
 
 我使用装饰器来整个包裹一个方法, 捕获方法中的所有异常信息.并将其转为json返回客户端.
@@ -152,9 +164,3 @@ class ReturnJson(APIView):
         log.error("asdffff")
         return JsonResponse(data=params)
 ```
-
-
-作者：行如风
-链接：https://www.jianshu.com/p/04287164a274
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。

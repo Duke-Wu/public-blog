@@ -1,4 +1,16 @@
-## Angular4中[ngClass]、[ngStyle]的基本使用
+---
+title: Angular ngClass 和 ngStyle 的基本使用
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 11:43:25
+comments: true
+tags:
+- angular
+categories:
+- tool kits
+---
+
+
+## Angular ngClass 和 ngStyle 的基本使用
 
 #### 1. ngStyle
 

@@ -1,4 +1,15 @@
-## linux中find批量删除空文件及空文件夹脚本
+---
+title: linux中find批量删除空文件及空文件夹脚本
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- linux
+categories:
+- tool kits
+---
+
+# linux中find批量删除空文件及空文件夹脚本
 
 https://blog.csdn.net/hanglinux/article/details/49925975
 

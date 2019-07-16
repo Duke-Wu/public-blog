@@ -82,15 +82,3 @@ expect "*?assword:*"
 send "${password}\r"
 expect eof
 EOD
-
-
-
-
-
-
-
-
-
-
-
-

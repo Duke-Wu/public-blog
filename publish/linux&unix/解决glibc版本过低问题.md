@@ -1,4 +1,16 @@
-### 解决`libc.so.6: version 'GLIBC_2.14' not found`问题
+---
+title: "解决 "libc.so.6: version 'GLIBC_2.14' not found" 问题"
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- linux
+categories:
+- tool kits
+---
+
+
+# 解决`libc.so.6: version 'GLIBC_2.14' not found`问题
 
 转载自：https://blog.csdn.net/cpplang/article/details/8462768
 
@@ -31,6 +43,3 @@
 4. 临时修改环境变量`export LD_LIBRARY_PATH=/opt/glibc-2.14/lib:$LD_LIBRARY_PATH`
 
 5. 此时运行正常，问题解决。
-
-
-

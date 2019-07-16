@@ -1,6 +1,16 @@
+---
+title: Django channel配置
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- python
+- django
+categories:
+- tool kits
+---
+
 django+nginx+uwsgi+supervisor+daphne+docker deploying websocket
-
-
 
 ## 配置文件简介
 

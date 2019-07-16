@@ -1,4 +1,16 @@
-## MySQL删除表：Cannot delete or update a parent row/ a foreign key constraint fails。
+---
+title: MySQL删除表：Cannot delete or update a parent row/ a foreign key constraint fails
+date: 2019/1/1 0:0:0
+updated: 2019/7/4 14:40:25
+comments: true
+tags:
+- database
+- mysql
+categories:
+- tool kits
+---
+
+## MySQL删除表：Cannot delete or update a parent row/ a foreign key constraint fails
 
 ![winter](http://img-note.wuqianlin.cn/img-md/2018-12-26-095405.png)
 
