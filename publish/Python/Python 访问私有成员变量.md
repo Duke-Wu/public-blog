@@ -1,5 +1,5 @@
 ---
-title: Python：访问私有成员变量
+title: Python 访问私有成员变量
 date: 2019/1/1 0:0:0
 updated: 2019/7/4 14:40:25
 comments: true
@@ -9,7 +9,7 @@ categories:
 - tool kits
 ---
 
-# Python：访问私有成员变量
+# Python 访问私有成员变量
 
 Python 中将成员和方法私有化的方式是在成员名或者方法名前面加两个下划线，如下：
 

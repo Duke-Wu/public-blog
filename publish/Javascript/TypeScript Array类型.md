@@ -30,7 +30,7 @@ let array1:Array<number> = new Array<number>();
 let array2:number[] = [1，2，3];
 ```
 
-
+<!--more-->
 
 #### 1.3 数组检测
 

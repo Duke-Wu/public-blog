@@ -1,5 +1,5 @@
 ---
-title: bytes与字符串的相互转化
+title: python bytes与字符串的相互转化
 date: 2019/1/1 0:0:0
 updated: 2019/7/4 14:40:25
 comments: true
@@ -9,7 +9,7 @@ categories:
 - tool kits
 ---
 
-## bytes与字符串的相互转化
+## python bytes与字符串的相互转化
 
 ```python
 # bytes转字符串方式一
