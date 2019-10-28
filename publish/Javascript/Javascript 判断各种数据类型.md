@@ -24,7 +24,7 @@ categories:
 和
 - Object
 
-
+<!--more-->
 
 ### typeof 操作符返回一个字符串，表示未经计算的操作数的类型。
 > 详情：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof
