@@ -569,6 +569,3 @@ https://www.cnblogs.com/Amagasaki/articles/3555509.html
 https://github.com/pydanny/cookiecutter-django
 
 
-
-
-

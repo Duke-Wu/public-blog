@@ -1,11 +1,11 @@
 ---
 title: Django custom exception handlers are easy!
-date: 2019/1/1 0:0:0
+date: 2019/7/4 14:40:25
 updated: 2019/7/4 14:40:25
 comments: true
 tags:
-- python
-- django
+  - python
+  - django
 categories:
 - tool kits
 ---

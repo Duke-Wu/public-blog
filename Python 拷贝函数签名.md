@@ -1,18 +1,20 @@
-# Python 拷贝函数签名
+# python 拷贝函数签名
 
 使用场景有很多，比如C API在Python下很多都变成了(*args, **kwargs)的参数，这时候可能需要为其添加一个更严格签名来约束参数。
 
 查了许多资料，能有效的拷贝函数签名貌似只能通过动态创建具有新签名的包装函数。使用这一技术的典型范例就是decorator库：<https://pypi.python.org/pypi/decorator>
 
+
+
 下面就根据decorator来实现一个拷贝函数签名的decorator：
 
-```
+```python
 from decorator import FunctionMaker, decorator
 from contextlib import contextmanager
   
 @contextmanager
 def rename_scope(obj, new_name):
-    """ A rename scope to rename obj's __name__, restore __name__when exit. """
+    """ A rename scope to rename obj's __name__, restore __name__ when exit. """
     old_name = obj.__name__
     obj.__name__ = new_name
     yield
